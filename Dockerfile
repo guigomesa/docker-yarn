@@ -5,3 +5,4 @@ LABEL description="Yarn enviroment to run task like lint etc"
 
 
 RUN apk add yarn
+RUN apk add git
